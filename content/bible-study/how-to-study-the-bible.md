@@ -33,3 +33,9 @@ Prayer helps me prepare my heart before reading, but understanding the context h
 > Reading scripture gives me an opportunity to seek God's guidance while also examining my own thoughts and actions.
 
 For more ways to explore scripture, see [[understanding-scripture|Understanding Scripture]] and [[bible-study-methods|Bible Study Methods]].
+
+## A Peaceful Moment With Scripture
+
+![An open book with a warm cup of tea, creating a peaceful setting for morning Bible study](sixteen-miles-out-IS-rtG07kgg-unsplash.jpg)
+
+*Photo by Sixteen Miles Out on [Unsplash](https://unsplash.com/photos/IS-rtG07kgg).*
