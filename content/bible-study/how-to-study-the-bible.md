@@ -39,3 +39,17 @@ For more ways to explore scripture, see [[understanding-scripture|Understanding 
 ![An open book with a warm cup of tea, creating a peaceful setting for morning Bible study](sixteen-miles-out-IS-rtG07kgg-unsplash.jpg)
 
 *Photo by Sixteen Miles Out on [Unsplash](https://unsplash.com/photos/IS-rtG07kgg).*
+
+## Additional Bible Study Resources
+
+### Bible Study Image
+
+![A warm cup of tea and flowers resting on an open book, representing a peaceful morning study routine](../assets/sixteen-miles-out-IS-rtG07kgg-unsplash.jpg)
+
+*Photo by Sixteen Miles Out on Unsplash.*
+
+### Gospel of John PDF
+
+The following document provides the Greek text of the Gospel of John for exploring scripture in its original language.
+
+![Gospel of John — Greek Text (PDF)](../assets/GospelOfJohn-GreekText.pdf.jpg.pdf)
