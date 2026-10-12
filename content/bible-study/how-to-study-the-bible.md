@@ -52,4 +52,4 @@ For more ways to explore scripture, see [[understanding-scripture|Understanding 
 
 The following document provides the Greek text of the Gospel of John for exploring scripture in its original language.
 
-![Gospel of John — Greek Text (PDF)](../assets/GospelOfJohn-GreekText.pdf.jpg.pdf)
+<iframe src="../assets/GospelOfJohn-GreekText.pdf.jpg.pdf" width="100%" height="600" title="Gospel of John Greek Text PDF"></iframe>
